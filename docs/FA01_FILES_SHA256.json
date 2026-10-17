@@ -1,0 +1,86 @@
+[
+  {
+    "path": ".github/workflows/build-debug-apk.yml",
+    "sha256": "5daad51589d5d899448bf14decd6d186a098142e8aa736b8744c2ad78285a3b5"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "8e4149dff0280b6f32ad9f738e814443c6694d282004d936b041bf1d3a861f0a"
+  },
+  {
+    "path": "README_FA.md",
+    "sha256": "989bc8985d4ed3b1073f338840b66f5587d4b3083e878c009b78010921abf003"
+  },
+  {
+    "path": "README_FA_LOCALIZATION.md",
+    "sha256": "921f05f5954bfe3c71011e9bc3a607be3ec2c04425314e3d7b4200f291275f65"
+  },
+  {
+    "path": "app/build.gradle",
+    "sha256": "5fb169bd5f4022433db539866caefddb61ee31563efb3154ac8f5af3479bea8a"
+  },
+  {
+    "path": "app/src/main/AndroidManifest.xml",
+    "sha256": "c3e4036a29e5861ac5fe20de53d38c83b1a1d1ee8592098e0f77161cf4d2a9c9"
+  },
+  {
+    "path": "app/src/main/java/ir/scooljavanrood/madreseyar/teacher/BiometricVault.java",
+    "sha256": "a4c0fdbb7f59df500ccef9fe6625d27a664c20318274620ec0041535cf8ff0c0"
+  },
+  {
+    "path": "app/src/main/java/ir/scooljavanrood/madreseyar/teacher/MainActivity.java",
+    "sha256": "cc75c5b0188a84e23faf4d168b9af4b6a0e52d148ef7b2cfbef2d658ef670243"
+  },
+  {
+    "path": "app/src/main/java/ir/scooljavanrood/madreseyar/teacher/SchoolApi.java",
+    "sha256": "2f28ed2dcf98bfe68134723e481bdc75fd35cac9410e34d0ef8752914d3148f0"
+  },
+  {
+    "path": "app/src/main/res/drawable/teacher_icon.xml",
+    "sha256": "e2ec0658dd3a33635ca0f9dfdad5412aeeda55ed49b60e10c004181255f2c03f"
+  },
+  {
+    "path": "app/src/main/res/values/strings.xml",
+    "sha256": "8319ae3f10481d9881abc1b1664ecab6d01d0bad64409ae994c829378104e96d"
+  },
+  {
+    "path": "app/src/main/res/xml/locales_config.xml",
+    "sha256": "f846393a074a960bd4527156007339176e3495eed0a947daa92673d6098b3762"
+  },
+  {
+    "path": "build.gradle",
+    "sha256": "c3c0cf04da0fc239f391c774554d97d890018ab6e37e87cc62f6070d0c8c9909"
+  },
+  {
+    "path": "docs/PREVIEW_SIMULATED.html",
+    "sha256": "d08644f888d39231b931b3f2333ad955f5a5f5ba794bef021ebe14a40a93dc15"
+  },
+  {
+    "path": "docs/QA_A05_HOME_SIMULATED.png",
+    "sha256": "355bcd2436ddf27de9de63428036c9094ba0ee6c9119f1b8720703581177b8bb"
+  },
+  {
+    "path": "docs/QA_A05_LOGIN_SIMULATED.png",
+    "sha256": "f799a1bf068d62dee47957b9056c6accbed9e2c51f2a3a3fb83f33082ab56fef"
+  },
+  {
+    "path": "docs/STATIC_QA_A05.json",
+    "sha256": "5daf8ce17f6cacad73697becb7805a7a11eb383ba297fbc65a028a47eb38215d"
+  },
+  {
+    "path": "docs/TEST_MATRIX_FA.md",
+    "sha256": "fe67d00c3d49cedca8f1c2a16899914aba0eb4c6eca2829c909422bd69921a99"
+  },
+  {
+    "path": "gradle.properties",
+    "sha256": "4d4c82226865844bdc85391d907a383da4a35d3a3f5348985d5ec3997ab932fe"
+  },
+  {
+    "path": "settings.gradle",
+    "sha256": "eeca1f1ac5c25b0b8ea4863ab4ec3f28bb7e36bfea9d630ba8d7208565e77784"
+  },
+  {
+    "path": "tools/verify_persian.py",
+    "sha256": "73d8f8c82144a5f2a61dccf8fb48a20c3bb9a216808129eeeaf6b4d272b60973"
+  }
+]
